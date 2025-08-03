@@ -1,4 +1,4 @@
 # github-demo
 This is my first Repository.
 <br>
-Author - Krishna Tyagi
+Author - Krishna Tyagi  (nxtwave)
